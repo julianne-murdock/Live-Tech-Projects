@@ -7,7 +7,7 @@ The project was managed through Microsoft Azure. While utilizing Discord for com
 
   <h4>CRUD Functionality</h4>
       <p>AppBuilder9000 uses Django framework. 
-      I used pyCharm for this project. </p>
+      I used pyCharm for this project. Listed in this repository is and Expense Tracker app I built during this 2 week Sprint. </p>
 
   <h4>Create<h4>
     <h5>[Story 2: Create your model]</h5>
